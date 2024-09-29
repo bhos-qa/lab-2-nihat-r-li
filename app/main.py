@@ -1,4 +1,3 @@
-# src/main.py
 
 class SimpleClass:
     def greet(self, name: str) -> str:
